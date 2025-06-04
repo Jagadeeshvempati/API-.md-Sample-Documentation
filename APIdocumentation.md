@@ -94,4 +94,5 @@ Avoid hardcoding tokens
 >v1.0 - Intial release with user CRUD endpoints  
 v1.1 - Added rate limiting and better error messages  
 
+😄
 - [x]  
