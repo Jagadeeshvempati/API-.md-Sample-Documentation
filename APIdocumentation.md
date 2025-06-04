@@ -95,4 +95,5 @@ Avoid hardcoding tokens
 v1.1 - Added rate limiting and better error messages  
 
 😄
+😄
 - [x]  
